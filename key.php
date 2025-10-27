@@ -3,7 +3,7 @@
 /*  Programmet foretar tilkobling til database-server og valg av database
 */
 
-  $servername="localhost";
+  $servername="mysql.usn.no";
   $username="265635";
   $password="2a94265635";
   $database="265635"; /* verdier satt for vert, bruker, passord og database for tilkobling til databaseserver */
