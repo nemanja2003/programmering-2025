@@ -19,7 +19,7 @@ try {
 } catch (Exception $e) {
     echo '<h2>Den oppgitte informasjonen passet ikke med kriteriene:</h2>';
     echo '<b>Dette er hva gikk galt: </b><i>' . $e->getMessage() . '</i>';
-    echo '<br><br><a href="https://web01.usn.no/~265635/prg120v/prg120v/levere%20inn%20ting"><button>Tilbake</button></a>';
+    echo '<br><br><a href="//dokploy.usn.no/app/265635-programmering-2025"><button>Tilbake</button></a>';
 }
 
 ?>
